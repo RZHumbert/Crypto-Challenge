@@ -1,2 +1,2 @@
-# Cryptopals
+# Crypto-Challenge
 https://cryptopals.com/
